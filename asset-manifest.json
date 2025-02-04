@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/radhikajindal13/Chat-App.git/static/css/main.588498e7.css",
+    "main.js": "/radhikajindal13/Chat-App.git/static/js/main.75766555.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/radhikajindal13/Chat-App.git/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/white-logo.png": "/radhikajindal13/Chat-App.git/static/media/white-logo.3c8d15af40224b172f98.png",
+    "index.html": "/radhikajindal13/Chat-App.git/index.html",
+    "main.588498e7.css.map": "/radhikajindal13/Chat-App.git/static/css/main.588498e7.css.map",
+    "main.75766555.js.map": "/radhikajindal13/Chat-App.git/static/js/main.75766555.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/radhikajindal13/Chat-App.git/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.588498e7.css",
+    "static/js/main.75766555.js"
+  ]
+}
