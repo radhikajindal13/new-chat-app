@@ -20,7 +20,7 @@
     "socket.io-client": "^4.7.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://radhikajindal13.github.io/Chat-App.git",
+  "homepage": "https://radhikajindal13.github.io/new-chat-app.git",
   "scripts": {
     "lint": "eslint .",
     "start": "react-scripts start",

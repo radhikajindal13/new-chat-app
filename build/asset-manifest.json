@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/radhikajindal13/Chat-App.git/static/css/main.588498e7.css",
-    "main.js": "/radhikajindal13/Chat-App.git/static/js/main.75766555.js",
-    "static/js/787.9e9f4ffd.chunk.js": "/radhikajindal13/Chat-App.git/static/js/787.9e9f4ffd.chunk.js",
-    "static/media/white-logo.png": "/radhikajindal13/Chat-App.git/static/media/white-logo.3c8d15af40224b172f98.png",
-    "index.html": "/radhikajindal13/Chat-App.git/index.html",
-    "main.588498e7.css.map": "/radhikajindal13/Chat-App.git/static/css/main.588498e7.css.map",
-    "main.75766555.js.map": "/radhikajindal13/Chat-App.git/static/js/main.75766555.js.map",
-    "787.9e9f4ffd.chunk.js.map": "/radhikajindal13/Chat-App.git/static/js/787.9e9f4ffd.chunk.js.map"
+    "main.css": "/new-chat-app.git/static/css/main.588498e7.css",
+    "main.js": "/new-chat-app.git/static/js/main.bc2d338e.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/new-chat-app.git/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/white-logo.png": "/new-chat-app.git/static/media/white-logo.3c8d15af40224b172f98.png",
+    "index.html": "/new-chat-app.git/index.html",
+    "main.588498e7.css.map": "/new-chat-app.git/static/css/main.588498e7.css.map",
+    "main.bc2d338e.js.map": "/new-chat-app.git/static/js/main.bc2d338e.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/new-chat-app.git/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.588498e7.css",
-    "static/js/main.75766555.js"
+    "static/js/main.bc2d338e.js"
   ]
 }
