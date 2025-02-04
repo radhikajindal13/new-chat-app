@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/new-chat-app.git/static/css/main.588498e7.css",
-    "main.js": "/new-chat-app.git/static/js/main.bc2d338e.js",
-    "static/js/787.9e9f4ffd.chunk.js": "/new-chat-app.git/static/js/787.9e9f4ffd.chunk.js",
-    "static/media/white-logo.png": "/new-chat-app.git/static/media/white-logo.3c8d15af40224b172f98.png",
-    "index.html": "/new-chat-app.git/index.html",
-    "main.588498e7.css.map": "/new-chat-app.git/static/css/main.588498e7.css.map",
-    "main.bc2d338e.js.map": "/new-chat-app.git/static/js/main.bc2d338e.js.map",
-    "787.9e9f4ffd.chunk.js.map": "/new-chat-app.git/static/js/787.9e9f4ffd.chunk.js.map"
+    "main.css": "/new-chat-app/static/css/main.588498e7.css",
+    "main.js": "/new-chat-app/static/js/main.c9b39012.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/new-chat-app/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/white-logo.png": "/new-chat-app/static/media/white-logo.3c8d15af40224b172f98.png",
+    "index.html": "/new-chat-app/index.html",
+    "main.588498e7.css.map": "/new-chat-app/static/css/main.588498e7.css.map",
+    "main.c9b39012.js.map": "/new-chat-app/static/js/main.c9b39012.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/new-chat-app/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.588498e7.css",
-    "static/js/main.bc2d338e.js"
+    "static/js/main.c9b39012.js"
   ]
 }
